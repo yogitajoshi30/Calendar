@@ -47,11 +47,4 @@ Follow these steps to run the application on your local machine:
 - TailwindCSS is used for styling, so the app will look polished out of the box. If you wish to customize styles, modify the Tailwind configuration or CSS files accordingly.
 - The app's events data is stored in `localStorage`. To reset the app's data, clear the browser's localStorage for this application.
 
-### Deployment
 
-You can deploy this app on platforms like [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/) for live usage. Ensure you build the app using the command:
-```bash
-npm run build
-```
-
-This will generate a `build/` directory that you can use for deployment.
