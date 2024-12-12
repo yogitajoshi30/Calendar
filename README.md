@@ -39,7 +39,7 @@ Follow these steps to run the application on your local machine:
    ```
 
 4. **Access the Application**
-   ```Open your browser and navigate to `http://localhost:3000` to view the app.```
+   ``Open your browser and navigate to `http://localhost:3000` to view the app.``
 
 ### Additional Notes
 
