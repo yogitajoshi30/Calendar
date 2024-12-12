@@ -24,8 +24,8 @@ Follow these steps to run the application on your local machine:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/yogitajoshi30/Calendar.git
+   cd Calendar
    ```
 
 2. **Install Dependencies**
